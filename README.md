@@ -1,37 +1,21 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/pwj1996/pwj1996.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是我的个人Java学习博客，因为发现自己零零散散学的知识，如果不怎么用就会遗忘，希望能有有一个系统的整理，所以创建这一个博客仓库，分类记录平时所学，便于整理回忆。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 主要内容
+# Java语言基础
 
-### Markdown
+# 框架相关内容
+## Spring
+## Spring Cloud
+## Mybatis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 计算机基础
+## 深入理解操作系统
+## 计算网络
+## 数据库
 
-```markdown
-Syntax highlighted code block
+# 算法和数据结构
+## LeetCode
+## 算法导论
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pwj1996/pwj1996.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
